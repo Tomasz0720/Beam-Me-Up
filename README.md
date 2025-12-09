@@ -12,6 +12,9 @@
 ![Issues](https://img.shields.io/github/issues/Tomasz0720/Beam-Me-UP)
 ![Python](https://img.shields.io/badge/Python-3-blue)
 
+### Group ID
+Group 1
+
 ### Team Members
 Tomasz Puzio <br>
 Klein Cafa <br>
