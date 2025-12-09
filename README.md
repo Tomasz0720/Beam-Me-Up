@@ -41,4 +41,6 @@ The neural network learns temporal patterns (i.e. the months that have more reco
 
 7. Select `Run all` to run all cells.
 
-### Demo Screenshots
+### Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/TfsL6MtxWfw)
