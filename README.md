@@ -1,7 +1,7 @@
 # Final Assignment - Beam-Me-Up
 
 <img src="Assets/BMUBlack.png#gh-light-mode-only" alt="Light mode logo" width="450">
-<img src="Assets/MBUWhite.png#gh-dark-mode-only" alt="Dark mode logo" width="450">
+<img src="Assets/BMUWhite.png#gh-dark-mode-only" alt="Dark mode logo" width="450">
 
 ## About
 
