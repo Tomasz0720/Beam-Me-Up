@@ -5,7 +5,7 @@
 
 ## About
 
-*CSCI 4050U: Machine Learning*
+*CSCI 4050U: Machine Learning Theory & Application*
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/Tomasz0720/Beam-Me-UP)
